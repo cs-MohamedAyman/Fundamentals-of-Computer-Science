@@ -7,6 +7,9 @@ Fundamentals of computer science lectures for computer science students.
 
 - ***New Perspectives on Computer Concepts***, June Jamrich Parsons 
 - ***Computer Concepts: Illustrated Introductory***, June Jamrich Parsons
+- ***Fundamentals of Computer Science Paperback***, Hariprasath P
+- ***The Elements of Computing Systems: Building a Modern Computer from First Principles***, Noam Nisan
+- ***Fundamentals of Computer Programming and Information Technology: Fcpit***, Rupinder Singh 
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
