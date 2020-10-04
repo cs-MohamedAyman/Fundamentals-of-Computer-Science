@@ -5,6 +5,9 @@ Fundamentals of computer science lectures for computer science students.
 
 ## Textbooks
 
+- ***New Perspectives on Computer Concepts***, June Jamrich Parsons 
+- ***Computer Concepts: Illustrated Introductory***, June Jamrich Parsons
+
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 ## Coursera-Specializations
