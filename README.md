@@ -1,6 +1,16 @@
 # Fundamentals-of-Computer-Science
 Fundamentals of computer science lectures for computer science students.
 
+## Lecture 01 - [Overview]()
+## Lecture 02 - [Overview]()
+## Lecture 03 - [Overview]()
+## Lecture 04 - [Overview]()
+## Lecture 05 - [Overview]()
+## Lecture 06 - [Overview]()
+## Lecture 07 - [Overview]()
+## Lecture 08 - [Overview]()
+
+
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
 # Textbooks
