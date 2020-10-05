@@ -1,4 +1,4 @@
-# Fundamentals-of-Computer-Science
+# Fundamentals-of-Computer-Science `30H`
 Fundamentals of computer science lectures for computer science students.
 
 ## Lecture 01 - [Overview]()
