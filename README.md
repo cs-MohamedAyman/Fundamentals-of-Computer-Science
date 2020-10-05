@@ -1,17 +1,18 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fundamentals-of-computer-science.jpg">
 
-# Fundamentals-of-Computer-Science `30H`
+# Fundamentals-of-Computer-Science `50H`
 Fundamentals of computer science lectures for computer science students.
 
-## Lecture 01 - [Overview]()
-## Lecture 02 - [Overview]()
-## Lecture 03 - [Overview]()
-## Lecture 04 - [Overview]()
-## Lecture 05 - [Overview]()
-## Lecture 06 - [Overview]()
-## Lecture 07 - [Overview]()
-## Lecture 08 - [Overview]()
-
+## Lecture 01 - [Introduction to Computer Science]()
+## Lecture 02 - [Numbering Systems]()
+## Lecture 03 - [Data Representation]()
+## Lecture 04 - [Software and Hardware]()
+## Lecture 05 - [Operating System]()
+## Lecture 06 - [Computer Viruses and Security]()
+## Lecture 07 - [Internet and Networks]()
+## Lecture 08 - [MS Windows and MS Office]()
+## Lecture 09 - [Pseudo Code and Flowcharts]()
+## Lecture 10 - [Introduction to Programming Languages]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
