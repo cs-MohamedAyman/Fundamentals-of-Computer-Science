@@ -1,6 +1,6 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fundamentals-of-computer-science.jpg">
 
-# Fundamentals-of-Computer-Science `50H`
+# Fundamentals-of-Computer-Science `40H`
 Fundamentals of computer science lectures for computer science students.
 
 ## Lecture 01 - [Introduction to Computer Science]()
