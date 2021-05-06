@@ -162,7 +162,41 @@ Fundamentals of computer science lectures for computer science students.
 
 # `YouTube-Playlists`
 
-*
-*
-*
-*
+* MIT OpenCourseWare - MIT 6.00SC Introduction to Computer Science and Programming
+* freeCodeCamp.org - Introduction to Computer Science - Harvard's CS50
+* Tutorials Point (India) Ltd. - Computer Fundamentals
+* Edupedia World - Computer Science (Grade 8): Introduction to Computers
+* MrBrownCS	Cambridge - A Level Computer Science: Theory Fundamentals
+* Computer Education For all - Introduction to Computers Complete Tutorials
+* The Organic Chemistry Tutor - Number Systems
+* Simple Snippets - Number System & Conversions
+* MyPathshala - Number system by ASHISH Tiwari
+* Khan Academy India - Number Systems | Class 9 (India)
+* TalentSprint Aptitude Prep - Number System | Quantitative Aptitude
+* Tutorials Point (India) Ltd - MS Word
+* GCFLearnFree.org - Microsoft Word 2016
+* GCFLearnFree.org - Microsoft Word 2013
+* GCFLearnFree.org - Microsoft Word
+* Technology for Teachers and Students - Microsoft Word
+* Simon Sez IT - Microsoft Word 2016 Training Tutorials for Beginners
+* Simon Sez IT - Microsoft Word 2013 Tutorials for Beginners
+* Sali Kaceli	Word 2016 Tutorials by Sali Kaceli
+* Professor Adam Morgan - Word 2016 Tutorial Playlist for Beginners
+* GCFLearnFree.org - Microsoft PowerPoint 2016
+* GCFLearnFree.org - Microsoft PowerPoint
+* Technology for Teachers and Students - PowerPoint
+* GCFLearnFree.org - Microsoft PowerPoint 2013
+* Simon Sez IT - Microsoft PowerPoint 2016 Course - Master PowerPoint
+* Simon Sez IT - Microsoft PowerPoint 2013 Tutorials for Beginners
+* Veon Aprova Logo - PowerPoint Concursos
+* Professor Adam Morgan - PowerPoint 2016 Tutorials Playlist- Learn How To Use PowerPoint
+* Tutorials Point (India) Ltd - MS-Excel
+* GCFLearnFree.org - Microsoft Excel 2016
+* GCFLearnFree.org - Microsoft Excel
+* Computers adda - Ms-Excel 2016
+* Simon Sez IT - Microsoft Excel 2016 Training Tutorials for Beginners
+* The Teacher - Microsoft Excel 2016 Tutorial
+* Simon Sez IT - Microsoft Excel 2016 Training Tutorials for Beginners
+* Simon Sez IT - Microsoft Excel 2016 Advanced Training Tutorials
+* Professor Adam Morgan - Excel 2016 Tutorials for Beginners - Learn How To Use Functions and Formulas
+* Rodrigo Schaeffer - Excel 2016 Concursos
