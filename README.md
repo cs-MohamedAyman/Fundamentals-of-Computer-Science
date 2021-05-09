@@ -8,7 +8,7 @@ Fundamentals of computer science lectures for computer science students.
 
 ## `Part 1`  `20 hrs`
 
-## Lecture 01 - [Introduction to Computer Science]()
+### Lecture 01 - [Introduction to Computer Science]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -19,7 +19,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-## Lecture 02 - [Software and Hardware]()
+### Lecture 02 - [Software and Hardware]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -30,7 +30,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-## Lecture 03 - [MS Windows and MS Office]()
+### Lecture 03 - [MS Windows and MS Office]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -41,7 +41,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-## Lecture 04 - [Computer Viruses and Security]()
+### Lecture 04 - [Computer Viruses and Security]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -57,7 +57,7 @@ Fundamentals of computer science lectures for computer science students.
 
 ## `Part 2`  `20 hrs`
 
-## Lecture 05 - [Internet and Networks]()
+### Lecture 05 - [Internet and Networks]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -68,7 +68,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-## Lecture 06 - [Numbering Systems]()
+### Lecture 06 - [Numbering Systems]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -79,7 +79,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-## Lecture 07 - [Pseudo Code and Flowcharts]()
+### Lecture 07 - [Pseudo Code and Flowcharts]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -90,7 +90,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-## Lecture 08 - [Introduction to Programming Languages]()
+### Lecture 08 - [Introduction to Programming Languages]()
 <details>
   <summary>Agenda</summary><br>
 
@@ -117,25 +117,10 @@ Fundamentals of computer science lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
-<br>
-
-## `Educational-Projects` `10 hrs`/`Project`
-
-|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
-|:----:|:----:|:----:|:----:|
-| | | | |
-| | | | |
-
-|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
-|:----:|:----:|:----:|:----:|
-| | | | |
-| | | | |
-
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
-# `Textbooks`
+## `Textbooks`
 
 - ***New Perspectives on Computer Concepts***, June Jamrich Parsons 
 - ***Computer Concepts: Illustrated Introductory***, June Jamrich Parsons
@@ -144,7 +129,7 @@ Fundamentals of computer science lectures for computer science students.
 
 <img align="right" width="90" height="50" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
-# `Coursera-Specializations`
+## `Coursera-Specializations`
 
 - ***Introduction to Computer Science and Programming Specialization*** by University of London
 - ***Introduction to Scripting in Python Specialization*** by Rice University
@@ -160,7 +145,7 @@ Fundamentals of computer science lectures for computer science students.
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-# `YouTube-Playlists`
+## `YouTube-Playlists`
 
 * MIT OpenCourseWare - MIT 6.00SC Introduction to Computer Science and Programming
 * freeCodeCamp.org - Introduction to Computer Science - Harvard's CS50
