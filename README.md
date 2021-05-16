@@ -136,17 +136,15 @@ Fundamentals of computer science lectures for computer science students.
 
 ## `Coursera-Specializations`
 
-- ***Introduction to Computer Science and Programming Specialization*** by University of London
-- ***Introduction to Scripting in Python Specialization*** by Rice University
-- ***Python 3 Programming Specialization*** by University of Michigan
-- ***Fundamentals of Computing Specialization*** by Rice University
-- ***Learn to Program: Crafting Quality Code*** by University of Toronto
-- ***Introduction to Programming in C Specialization*** by Duke University
-- ***C for Everyone: Programming Fundamentals*** by University of California, Santa Cruz
-- ***C for Everyone: Structured Programming*** by University of California, Santa Cruz
-- ***C++ For C Programmers, Part A*** by University of California, Santa Cruz
-- ***C++ For C Programmers, Part B*** by University of California, Santa Cruz
-- ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
+* ***Introduction to Computer Science and Programming Specialization*** by University of London
+* ***Introduction to Scripting in Python Specialization*** by Rice University
+* ***Python 3 Programming Specialization*** by University of Michigan
+* ***Fundamentals of Computing Specialization*** by Rice University
+* ***Programming in Python: A Hands-on Introduction Specialization*** by Codio
+* ***Introduction to Programming in C Specialization*** by Duke University
+* ***Coding for Everyone: C and C++ Specialization*** by University of California, Santa Cruz
+* ***Computational Thinking with Beginning C Programming Specialization*** by University of Colorado Boulder
+* ***Programming in C++: A Hands-on Introduction Specialization*** by Codio
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
