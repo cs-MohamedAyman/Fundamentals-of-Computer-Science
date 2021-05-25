@@ -121,6 +121,8 @@ Fundamentals of computer science lectures for computer science students.
 ### `Assignment 06` - 
 ### `Assignment 07` - 
 ### `Assignment 08` - 
+### `Assignment 09` - 
+### `Assignment 10` - 
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
