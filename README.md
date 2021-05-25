@@ -31,7 +31,7 @@ Fundamentals of computer science lectures for computer science students.
   - 
 </details>
 
-### `Lecture 03` - MS Windows and MS Office
+### `Lecture 03` - Internet and Networks
 <details>
   <summary>Agenda</summary><br>
 
@@ -61,7 +61,7 @@ Fundamentals of computer science lectures for computer science students.
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 05` - Internet and Networks
+### `Lecture 05` - MS Windows and MS Office
 <details>
   <summary>Agenda</summary><br>
 
