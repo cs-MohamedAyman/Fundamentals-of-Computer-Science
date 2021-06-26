@@ -5,7 +5,7 @@ Fundamentals of computer science lectures for computer science students.
 <br>
 <br>
 
-## `Part 1` Introduction to Computer Science `20 hrs`
+## `Part 1` Introduction to Computer Science
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -57,7 +57,7 @@ Fundamentals of computer science lectures for computer science students.
 <br>
 <br>
 
-## `Part 2` Introduction to Programming Languages `20 hrs`
+## `Part 2` Introduction to Programming Languages
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -109,7 +109,7 @@ Fundamentals of computer science lectures for computer science students.
 <br>
 <br>
 
-## `Assignments` `5 hrs`/`Assignment`
+## `Assignments` `10 hrs`/`Assignment`
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
